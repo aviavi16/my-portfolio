@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "שלום",
+      "description": "👋 אני אבינעם אשכנזי, מתכנת אוטומציה מנוסה שמחפש קרירה בתור מתכנת פולסטאק. אם אהבתם את הרפוזיטורי (והפרויקטים) שלי מוזמנים להוסיף ⭐, זה יעזור כדי לקבל חשיפה למתכנתים אחרים. תודה רבה! 💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "קצת עלי",
+        "projects": "פרויקטים",
+        "skills": "יכולות",
+        "experience": "ניסיון"
       }
     },
     "projects": [

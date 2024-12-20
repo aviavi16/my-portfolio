@@ -1,8 +1,4 @@
 import React, { Component } from "react";
-import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
-import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
@@ -54,8 +50,10 @@ class About extends Component {
                     ></span>
                   </div>
                   <div
-                    className="card-body font-trebuchet text-justify ml-3 mr-3"
+                    className="card-body font-trebuchet text-justify ml-3 mr-3 en"
                     style={{
+                      display: "flex",
+                      flexDirection: "column",
                       height: "auto",
                       fontSize: "132%",
                       lineHeight: "200%",
@@ -63,7 +61,6 @@ class About extends Component {
                   >
                     <br />
                     <span className="wave">{hello} :) </span>
-                    <br />
                     <br />
                     <div className="about-myself-text-container">
                       {about}

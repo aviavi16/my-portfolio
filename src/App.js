@@ -90,6 +90,7 @@ class App extends Component {
                 window.$primaryLanguage,
                 window.$secondaryLanguageIconId
               )
+              
             }
             style={{ display: "inline" }}
           >
