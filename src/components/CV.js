@@ -7,7 +7,7 @@ class CV extends Component {
       }
 
     return (
-        <div className="cta"><a href="/static/media/cv.e19bcd263eabf63f3dd5.pdf" className="download-cv-btn">
+        <div className="cta"><a  className="download-cv-btn" href="/Avinoam_Ashkenazy_cv_fs.pdf" download>
             {sectionName}
         </a></div>
     );
