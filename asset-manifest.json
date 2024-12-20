@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.79ee339c.chunk.css",
-    "main.js": "/static/js/main.20287662.chunk.js",
-    "main.js.map": "/static/js/main.20287662.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a5042f6b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a5042f6b.js.map",
-    "static/css/2.d64471e2.chunk.css": "/static/css/2.d64471e2.chunk.css",
-    "static/js/2.671566d9.chunk.js": "/static/js/2.671566d9.chunk.js",
-    "static/js/2.671566d9.chunk.js.map": "/static/js/2.671566d9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.30c25816081f8bbda9a3c2f15dba1a57.js": "/precache-manifest.30c25816081f8bbda9a3c2f15dba1a57.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.79ee339c.chunk.css.map": "/static/css/main.79ee339c.chunk.css.map",
-    "static/js/2.671566d9.chunk.js.LICENSE.txt": "/static/js/2.671566d9.chunk.js.LICENSE.txt"
+    "main.css": "/aviavi16.github.io/my-portfolio/static/css/main.79ee339c.chunk.css",
+    "main.js": "/aviavi16.github.io/my-portfolio/static/js/main.79adef38.chunk.js",
+    "main.js.map": "/aviavi16.github.io/my-portfolio/static/js/main.79adef38.chunk.js.map",
+    "runtime-main.js": "/aviavi16.github.io/my-portfolio/static/js/runtime-main.99ad0436.js",
+    "runtime-main.js.map": "/aviavi16.github.io/my-portfolio/static/js/runtime-main.99ad0436.js.map",
+    "static/css/2.d64471e2.chunk.css": "/aviavi16.github.io/my-portfolio/static/css/2.d64471e2.chunk.css",
+    "static/js/2.671566d9.chunk.js": "/aviavi16.github.io/my-portfolio/static/js/2.671566d9.chunk.js",
+    "static/js/2.671566d9.chunk.js.map": "/aviavi16.github.io/my-portfolio/static/js/2.671566d9.chunk.js.map",
+    "index.html": "/aviavi16.github.io/my-portfolio/index.html",
+    "precache-manifest.e02406babbca21eb87cae1fa36f22fdf.js": "/aviavi16.github.io/my-portfolio/precache-manifest.e02406babbca21eb87cae1fa36f22fdf.js",
+    "service-worker.js": "/aviavi16.github.io/my-portfolio/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/aviavi16.github.io/my-portfolio/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.79ee339c.chunk.css.map": "/aviavi16.github.io/my-portfolio/static/css/main.79ee339c.chunk.css.map",
+    "static/js/2.671566d9.chunk.js.LICENSE.txt": "/aviavi16.github.io/my-portfolio/static/js/2.671566d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5042f6b.js",
+    "static/js/runtime-main.99ad0436.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.671566d9.chunk.js",
     "static/css/main.79ee339c.chunk.css",
-    "static/js/main.20287662.chunk.js"
+    "static/js/main.79adef38.chunk.js"
   ]
 }
