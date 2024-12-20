@@ -1,12 +1,13 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Avinoam Ashkenazy. An experienced automation engineer seeking career as a fullstack developer. If you like my github repositories, make sure to ⭐ it and make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hi 👋",
+      "description": " I'm Avinoam Ashkenazy, An experienced automation engineer seeking career as a fullstack developer. If you like my github repositories, make sure to ⭐ it and make it more recognizable for other users. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Experience",
+        "cv": "Download CV"
       }
     },
     "projects": [
