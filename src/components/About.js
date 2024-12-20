@@ -50,19 +50,33 @@ class About extends Component {
                     ></span>
                   </div>
                   <div
-                    className="card-body font-trebuchet text-justify ml-3 mr-3 en"
+                    className="card-body-en font-trebuchet text-justify ml-3 mr-3"
                     style={{
-                      display: "flex",
-                      flexDirection: "column",
                       height: "auto",
                       fontSize: "132%",
                       lineHeight: "200%",
                     }}
                   >
                     <br />
-                    <span className="wave">{hello} :) </span>
+                    <span className="wave">{hello} </span>
                     <br />
-                    <div className="about-myself-text-container">
+                    <div className="about-myself-text-container-en">
+                      {about}
+                    </div>   
+                  </div>
+
+                  <div
+                    className="card-body-heb ml-3 mr-3"
+                    style={{
+                      height: "auto",
+                      fontSize: "132%",
+                      lineHeight: "200%",
+                    }}
+                  >
+                    <br />
+                    <span className="wave-heb">{hello} </span>
+                    <br />
+                    <div className="about-myself-text-container-heb">
                       {about}
                     </div>   
                   </div>

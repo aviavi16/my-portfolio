@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import $ from "jquery";
 import "./App.scss";
+import CV from "./components/CV";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import About from "./components/About";
@@ -85,12 +86,16 @@ class App extends Component {
         <Header sharedData={this.state.sharedData.basic_info} />
         <div className="col-md-12 mx-auto text-center language">
           <div
-            onClick={() =>
-              this.applyPickedLanguage(
-                window.$primaryLanguage,
-                window.$secondaryLanguageIconId
-              )
-              
+            onClick={() => {
+                var descriptionElHeb = document.querySelector(".card-body-heb")
+                var descriptionElEn = document.querySelector(".card-body-en")
+                descriptionElHeb.style.display = 'none';
+                descriptionElEn.style.display = 'block';
+                return this.applyPickedLanguage(
+                  window.$primaryLanguage,
+                  window.$secondaryLanguageIconId
+                )
+              }       
             }
             style={{ display: "inline" }}
           >
@@ -102,11 +107,16 @@ class App extends Component {
             ></span>
           </div>
           <div
-            onClick={() =>
-              this.applyPickedLanguage(
-                window.$secondaryLanguage,
-                window.$primaryLanguageIconId
-              )
+            onClick={() => {
+                var descriptionElHeb = document.querySelector(".card-body-heb")
+                var descriptionElEn = document.querySelector(".card-body-en")
+                descriptionElHeb.style.display = 'flex';
+                descriptionElEn.style.display = 'none';
+                return this.applyPickedLanguage(
+                  window.$secondaryLanguage,
+                  window.$primaryLanguageIconId
+                )
+              }   
             }
             style={{ display: "inline" }}
           >
@@ -119,6 +129,10 @@ class App extends Component {
           </div>
         </div>
         <About
+          resumeBasicInfo={this.state.resumeData.basic_info}
+          sharedBasicInfo={this.state.sharedData.basic_info}
+        />
+        <CV
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}
         />

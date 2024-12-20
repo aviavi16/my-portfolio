@@ -57,6 +57,11 @@
           "name": "MongoDb",
           "class": "devicon-mongodb-plain",
           "level": "60"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "60"
         }
       ]
     }

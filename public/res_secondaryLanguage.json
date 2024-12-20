@@ -1,12 +1,13 @@
 {
     "basic_info": {
-      "description_header": "שלום",
-      "description": "👋 אני אבינעם אשכנזי, מתכנת אוטומציה מנוסה שמחפש קרירה בתור מתכנת פולסטאק. אם אהבתם את הרפוזיטורי (והפרויקטים) שלי מוזמנים להוסיף ⭐, זה יעזור כדי לקבל חשיפה למתכנתים אחרים. תודה רבה! 💜",
+      "description_header": " 👋 שלום",
+      "description": " אני אבינעם אשכנזי, מתכנת אוטומציה מנוסה שמחפש קריירה בתור מתכנת פולסטאק. אם אהבתם את הרפוזיטורי (והפרויקטים) שלי מוזמנים להוסיף ⭐, זה יעזור כדי לקבל חשיפה למתכנתים אחרים. תודה רבה",
       "section_name": {
-        "about": "קצת עלי",
+        "about": "קצת עליי",
         "projects": "פרויקטים",
-        "skills": "יכולות",
-        "experience": "ניסיון"
+        "skills": "שפות ומיומנויות",
+        "experience": "ניסיון תעסוקתי",
+        "cv": "הורדת קובץ קורות חיים"
       }
     },
     "projects": [
@@ -81,35 +82,92 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "קורס הסבה לפולסטאק של קודינג אקדמי",
+        "title": "מתכנת פולסטאק",
+        "years": "10.2024 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
-          "REST API",
           "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "Node js",
+          "Mongo db",
+          "Express",
+          "Redux",
+          "Cookies",
+          "Auth",
+          "Ajax",
+          "REST API",
+          "Pixel Perfect",
+          "Sockets"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "בולט- חברת ביטוח בארהב",
+        "title": "מפתח אוטומציה",
+        "years": "01.2020 - 09.2023",
         "mainTech": [
-          "Angular 7/8"
+          "Selenium using C#"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
+          "Github",
+          "Sql",
+          "MongoDb",
+          "Fiddler",
+          "Postman",
+          "Docker",
+          "Docker Swarm",
+          "CI/ CD",
+          "POM",
+          "Python",
+          "Angular",
+          "Api Tests",
+          "Unit Tests",
+          "Integration Tests",
+          "Stress Tests",
+          "Writing User Stories"
+        ]
+      },
+      {
+        "company": "MP סקייל ",
+        "title": "מפתח אוטומציה",
+        "years": "01.2018 - 01.2019",
+        "mainTech": [
+          "Linux"
+        ],
+        "technologies": [
+          "Bash",
+          "Scripts",
+          "Benchmarks",
+          "Vim"
+        ]
+      },
+      {
+        "company": "אינטל",
+        "title": "מפתח אוטומציה",
+        "years": "01.2016 - 01.2017",
+        "mainTech": [
+          "Selenium using C# and C++ "
+        ],
+        "technologies": [
+          "Embedded Testing",
+          "Modernization and Legacy Migration",
+          "RealSense API"
+        ]
+      },
+      {
+        "company": "רב מסר- משרת סטודנט",
+        "title": "מפתח אוטומציה",
+        "years": "01.2015 - 09.2016",
+        "mainTech": [
+          "Java and Selenium"
+        ],
+        "technologies": [
+          "Maven",
+          "Image Compare",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Dev tools"
         ]
       }
     ]
