@@ -81,37 +81,92 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Coding Academy",
+        "title": "Fullstack Developer",
+        "years": "10.2024 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
-          "REST API",
           "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Node js",
+          "Mongo db",
+          "Express",
+          "Redux",
+          "Cookies",
+          "Auth",
+          "Ajax",
+          "REST API",
+          "Pixel Perfect",
+          "Sockets"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Bolt-inc",
+        "title": "QA automation engineer",
+        "years": "01.2020 - 09.2023",
         "mainTech": [
-          "Angular 7/8"
+          "Selenium using C#"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "Github",
+          "Sql",
+          "MongoDb",
+          "Fiddler",
+          "Postman",
+          "Docker",
+          "Docker Swarm",
+          "CI/ CD",
+          "POM",
+          "Python",
+          "Angular",
+          "Api Tests",
+          "Unit Tests",
+          "Integration Tests",
+          "Stress Tests",
+          "Writing User Stories"
+        ]
+      },
+      {
+        "company": "ScaleMP",
+        "title": "QA automation engineer",
+        "years": "01.2018 - 01.2019",
+        "mainTech": [
+          "Linux"
+        ],
+        "technologies": [
+          "Bash",
+          "Scripts",
+          "Benchmarks",
+          "Vim"
+        ]
+      },
+      {
+        "company": "Intel",
+        "title": "QA automation engineer",
+        "years": "01.2016 - 01.2017",
+        "mainTech": [
+          "Selenium using C# and C++ "
+        ],
+        "technologies": [
+          "Embedded Testing",
+          "Modernization and Legacy Migration",
+          "RealSense API"
+        ]
+      },
+      {
+        "company": "Responder– part time",
+        "title": "QA automation engineer",
+        "years": "01.2015 - 09.2016",
+        "mainTech": [
+          "Java and Selenium"
+        ],
+        "technologies": [
+          "Maven",
+          "Image Compare",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Dev tools"
         ]
       }
     ]
