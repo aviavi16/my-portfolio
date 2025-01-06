@@ -7,9 +7,11 @@ class CV extends Component {
       }
 
     return (
-        <div className="cta"><a  className="download-cv-btn" href="/Avinoam_Ashkenazy_cv_fs.pdf" download>
+        <div className="cta">
+          {/* <a  className="download-cv-btn" href="/Avinoam_Ashkenazy_cv_fs.pdf" download>
             {sectionName}
-        </a></div>
+          </a> */}
+        </div>
     );
   }
 }
