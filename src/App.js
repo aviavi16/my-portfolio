@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import $ from "jquery";
 import "./App.scss";
-import CV from "./components/CV";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import About from "./components/About";
@@ -129,10 +128,6 @@ class App extends Component {
           </div>
         </div>
         <About
-          resumeBasicInfo={this.state.resumeData.basic_info}
-          sharedBasicInfo={this.state.sharedData.basic_info}
-        />
-        <CV
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}
         />
