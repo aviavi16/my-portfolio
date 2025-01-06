@@ -87,7 +87,7 @@
           "images/portfolio/gameMatch/gameMatch_mobileSwipe.png",
           "images/portfolio/gameMatch/gameMatch_mobileMatch.png"
         ],
-        "url": "https://aviavi16.github.io/Game-Match/",
+        "url": "https://gamematch-backend.onrender.com/",
         "technologies": [
           {
             "class": "devicon-react-original",
